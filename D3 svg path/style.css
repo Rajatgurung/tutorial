@@ -1,0 +1,19 @@
+body,html{
+  padding: 0;
+  margin: 0;
+}
+svg path{
+  fill: none;
+  width: 100%;
+  stroke: #137B80;
+  stroke-width: 4;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+svg{
+  display: block;
+}
+svg line{
+  stroke: #C0C0BB;
+}
+
